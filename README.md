@@ -64,3 +64,4 @@ aws cognito-idp admin-confirm-sign-up
 aws cognito-idp admin-get-user \
   --user-pool-id ${USER_POOL_ID} \
   --username ${USER_NAME}
+  
